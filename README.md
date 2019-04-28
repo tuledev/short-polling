@@ -1,5 +1,5 @@
 # Short Polling 
-### A simple short-polling center (crontab-like) with Swift 4.2
+A simple short-polling center (crontab-like) with Swift 4.2
 
 ## Table of Contents
 - Introduction
